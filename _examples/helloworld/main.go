@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/inconshreveable/log15"
 
-	"github.com/devishot/ari/client/native"
+	"gopkg.in/devishot/ari.v4/client/native"
 )
 
 func main() {

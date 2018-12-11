@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 var dtmfTestEventData = `

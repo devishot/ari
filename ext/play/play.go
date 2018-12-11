@@ -3,7 +3,7 @@ package play
 import (
 	"context"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // AllDTMF is a string which contains all possible

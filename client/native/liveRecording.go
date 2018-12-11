@@ -3,7 +3,7 @@ package native
 import (
 	"errors"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // LiveRecording provides the ARI LiveRecording accessors for the native client

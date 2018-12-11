@@ -3,7 +3,7 @@ package native
 import (
 	"errors"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // Endpoint provides the ARI Endpoint accessors for the native client

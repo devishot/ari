@@ -1,6 +1,6 @@
 package testutils
 
-import "github.com/devishot/ari"
+import "gopkg.in/devishot/ari.v4"
 
 // A RecorderPair is the pair of results returned from a mock Record request
 type RecorderPair struct {

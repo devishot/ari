@@ -7,8 +7,8 @@ import (
 
 	"github.com/inconshreveable/log15"
 
-	"github.com/devishot/ari"
-	"github.com/devishot/ari/client/native"
+	"gopkg.in/devishot/ari.v4"
+	"gopkg.in/devishot/ari.v4/client/native"
 )
 
 var log = log15.New()

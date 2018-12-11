@@ -3,7 +3,7 @@ package stdbus
 import (
 	"sync"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // subscriptionEventBufferSize defines the number of events that each

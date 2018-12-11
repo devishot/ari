@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/devishot/ari"
-	"github.com/devishot/ari/rid"
+	"gopkg.in/devishot/ari.v4"
+	"gopkg.in/devishot/ari.v4/rid"
 )
 
 // Channel provides the ARI Channel accessors for the native client

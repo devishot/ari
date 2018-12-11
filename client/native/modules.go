@@ -3,7 +3,7 @@ package native
 import (
 	"errors"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // Modules provides the ARI modules accessors for a native client

@@ -1,7 +1,7 @@
 package native
 
 import (
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 	"github.com/pkg/errors"
 )
 

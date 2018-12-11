@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/devishot/ari"
-	"github.com/devishot/ari/rid"
+	"gopkg.in/devishot/ari.v4"
+	"gopkg.in/devishot/ari.v4/rid"
 )
 
 // Bridge provides the ARI Bridge accessors for the native client

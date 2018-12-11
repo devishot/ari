@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/url"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // Sound provides the ARI Sound accessors for the native client

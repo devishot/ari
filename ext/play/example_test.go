@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/devishot/ari"
-	"github.com/devishot/ari/client/arimocks"
+	"gopkg.in/devishot/ari.v4"
+	"gopkg.in/devishot/ari.v4/client/arimocks"
 )
 
 func ExamplePlay() {

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // Mailbox provides the ARI Mailbox accessors for the native client

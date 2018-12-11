@@ -3,7 +3,7 @@ package native
 import (
 	"errors"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // DeviceState provides the ARI DeviceState accessors for the native client

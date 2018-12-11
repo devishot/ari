@@ -8,8 +8,8 @@ import (
 
 	"sync"
 
-	"github.com/devishot/ari"
-	"github.com/devishot/ari/rid"
+	"gopkg.in/devishot/ari.v4"
+	"gopkg.in/devishot/ari.v4/rid"
 	"github.com/pkg/errors"
 )
 

@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/devishot/ari"
+	"gopkg.in/devishot/ari.v4"
 )
 
 // Session describes a structured Play session.
