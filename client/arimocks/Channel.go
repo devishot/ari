@@ -2,7 +2,7 @@
 
 package arimocks
 
-import ari "github.com/CyCoreSystems/ari"
+import ari "github.com/devishot/ari"
 import mock "github.com/stretchr/testify/mock"
 import time "time"
 

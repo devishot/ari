@@ -8,8 +8,8 @@ import (
 
 	"sync"
 
-	"github.com/CyCoreSystems/ari"
-	"github.com/CyCoreSystems/ari/rid"
+	"github.com/devishot/ari"
+	"github.com/devishot/ari/rid"
 	"github.com/pkg/errors"
 )
 

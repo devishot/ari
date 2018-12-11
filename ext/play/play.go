@@ -3,7 +3,7 @@ package play
 import (
 	"context"
 
-	"github.com/CyCoreSystems/ari"
+	"github.com/devishot/ari"
 )
 
 // AllDTMF is a string which contains all possible

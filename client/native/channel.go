@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/CyCoreSystems/ari"
-	"github.com/CyCoreSystems/ari/rid"
+	"github.com/devishot/ari"
+	"github.com/devishot/ari/rid"
 )
 
 // Channel provides the ARI Channel accessors for the native client

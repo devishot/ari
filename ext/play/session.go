@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/CyCoreSystems/ari"
+	"github.com/devishot/ari"
 )
 
 // Session describes a structured Play session.
